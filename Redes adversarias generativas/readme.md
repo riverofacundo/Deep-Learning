@@ -1,2 +1,2 @@
 Las Redes Generativas Antagónicas (RGAs), también conocidas como GANs en inglés, son una clase de algoritmos de inteligencia artificial que se utilizan en el aprendizaje no supervisado, implementadas por un sistema de dos redes neuronales que compiten mutuamente en una especie de juego de suma cero. Fueron presentadas por Ian Goodfellow en 2014.
-![Alt text]([https://raw.githubusercontent.com/riverofacundo/Deep-learning/main/Transferencia%20de%20estilo/1.png](https://raw.githubusercontent.com/riverofacundo/Deep-Learning/main/Redes%20adversarias%20generativas/red.png) "Optional Title")
+![](https://raw.githubusercontent.com/riverofacundo/Deep-Learning/main/Redes%20adversarias%20generativas/red.png)
